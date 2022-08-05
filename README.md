@@ -13,7 +13,7 @@ Bienvenido a mi perfil de GitHub, aquí encontrarás proyectos en los que actual
 ## One more thing...🍎 I have always tried to translate my projects into Spanish and English, but it is not always possible! My code is 100% written in English (declare variables,comment and create classes with words in English) and I'm a camelCase code writter🐪 
 Una cosa más...🍎 He tratado de traducir mis proyectos siempre al español y al ingles, pero no siempre es posible! Mi código se encuentra 100% escrito en inglés (declaro variables, comento y creo clases con palabras en ingles) y soy un programador camelCase  🐪 
 
-## Take a look of some interesting projects 👀
+## Take a look at some interesting projects 👀
 Mira algunos proyectos interesantes 👀
 
 
