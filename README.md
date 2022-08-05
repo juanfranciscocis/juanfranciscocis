@@ -1,8 +1,10 @@
 # Hi there my name is Juan Francisco Cisneros👋
 Hola me llamo Juan Francisco Cisneros👋
 
-## Looking for my resume? 📖
+## Looking for my resume?(Only in Spanish) 📖 
 ¿Buscas mi currículum vitae? 📖
+
+[CLICK](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
 
 
 
