@@ -4,7 +4,7 @@ Hola me llamo Juan Francisco Cisneros👋
 ## Looking for my resume?(Only in Spanish) 📖 
 ¿Buscas mi currículum vitae? 📖
 
-[CLICK HERE!!!](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
+[CLICK HERE!!! (CLICK AQUÍ!!!)](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
 
 
 ## Welcome to my GitHub profile, here you will find projects that I am currently working on, some of the technologies that I use every day, and many code examples. 👨🏻‍💻
@@ -76,5 +76,5 @@ Como un full stack developer algunas de las aplicaciones para diseño gráfico q
 ## Finally, here you can find interesting and useful code that I have written over the years 👈🏻
 Finalmente, aquí puedes encontrar código interesante y útil que he escrito a lo largo de los años. 👈🏻
 
-[Here!!!](https://gist.github.com/juanfranciscocis)
+[Here!!!(AQUÍ!!!)](https://gist.github.com/juanfranciscocis)
 
