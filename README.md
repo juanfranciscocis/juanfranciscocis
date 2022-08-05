@@ -73,5 +73,7 @@ Como un full stack developer algunas de las aplicaciones para diseño gráfico q
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 
-
+## Finally, here you can find interesting and useful code that I have written over the years
+Finalmente, aquí puedes encontrar código interesante y útil que he escrito a lo largo de los años.
+[Here!!!](https://gist.github.com/juanfranciscocis)
 
