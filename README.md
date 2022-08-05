@@ -17,9 +17,9 @@ Una cosa más...🍎 He tratado de traducir mis proyectos siempre al español y 
 Mira algunos proyectos interesantes 👀
 
 
-*** ***In every project in the readme.md there is a section in case you are here because of my resume*** ***
+*** ***In every project in the README.md there is a section in case you are here because of my resume*** ***
 
-**** ****En todo proyecto en el readme.md existe un apartado en caso de que estés aquí debido a mi currículum vitae**** ****
+**** ****En todo proyecto en el README.md existe un apartado en caso de que estés aquí debido a mi currículum vitae**** ****
 
 [Security RSA Algorithm](https://github.com/juanfranciscocis/Simple-RSA-Algorithm)
 
