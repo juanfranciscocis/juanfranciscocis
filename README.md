@@ -7,15 +7,19 @@ Hola me llamo Juan Francisco Cisneros👋
 [CLICK HERE!!!](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
 
 
-
 ## Welcome to my GitHub profile, here you will find projects that I am currently working on, some of the technologies that I use every day, and many code examples. 👨🏻‍💻
 Bienvenido a mi perfil de GitHub, aquí encontrarás proyectos en los que actualmente me encuentro trabajando, algunas de las tecnologías que utilizo día a día y muchos ejemplos de códigos. 👨🏻‍💻
 
-## One more thing!🍎 I have always tried to translate my projects into Spanish and English, but it is not always possible! My code is 100% written in English (declare variables,comment and create classes with words in English) and I'm a camelCase writter🐪 
-Una cosa más!🍎 He tratado de traducir mis proyectos siempre al español y al ingles, pero no siempre es posible! Mi código se encuentra 100% escrito en inglés (declaro variables, comento y creo clases con palabras en ingles) y soy un programador camelCase  🐪 
+## One more thing...🍎 I have always tried to translate my projects into Spanish and English, but it is not always possible! My code is 100% written in English (declare variables,comment and create classes with words in English) and I'm a camelCase code writter🐪 
+Una cosa más...🍎 He tratado de traducir mis proyectos siempre al español y al ingles, pero no siempre es posible! Mi código se encuentra 100% escrito en inglés (declaro variables, comento y creo clases con palabras en ingles) y soy un programador camelCase  🐪 
 
 ## Take a look of some interesting projects 👀
 Mira algunos proyectos interesantes 👀
+
+
+*** ***In every project in the readme.md there is a section in case you are here because of my resume*** ***
+
+**** ****En todo proyecto en el readme.md existe un apartado en caso de que estés aquí debido a mi currículum vitae**** ****
 
 [Security RSA Algorithm](https://github.com/juanfranciscocis/Simple-RSA-Algorithm)
 
@@ -24,6 +28,8 @@ Mira algunos proyectos interesantes 👀
 [Probability and Statistics University Project](https://github.com/juanfranciscocis/Probability-and-Statistics)
 
 [Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
+
+
 
 ## Here a summary of the programming languages that I have used in my GitHub repositories 🌐 
 Aquí te muestro un resumen de los lenguajes de programación que he utilizado en mis repositorios de GitHub 🌐
