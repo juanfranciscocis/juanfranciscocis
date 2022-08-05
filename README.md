@@ -4,23 +4,34 @@ Hola me llamo Juan Francisco Cisneros👋
 ## Looking for my resume?(Only in Spanish) 📖 
 ¿Buscas mi currículum vitae? 📖
 
-[CLICK](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
+[CLICK HERE!!!](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
 
 
 
 ## Welcome to my GitHub profile, here you will find projects that I am currently working on, some of the technologies that I use every day, and many code examples. 👨🏻‍💻
 Bienvenido a mi perfil de GitHub, aquí encontrarás proyectos en los que actualmente me encuentro trabajando, algunas de las tecnologías que utilizo día a día y muchos ejemplos de códigos. 👨🏻‍💻
 
-## One more thing! I have always tried to translate my projects into Spanish and English, but it is not always possible! My code is 100% written in English (declare variables,comment and create classes with words in English) and I'm a camelCase writter🐪 
- Una cosa más! He tratado de traducir mis proyectos siempre al español y al ingles, pero no siempre es posible! Mi código se encuentra 100% escrito en inglés (declaro variables, comento y creo clases con palabras en ingles) y soy un programador camelCase  🐪 
+## One more thing!🍎 I have always tried to translate my projects into Spanish and English, but it is not always possible! My code is 100% written in English (declare variables,comment and create classes with words in English) and I'm a camelCase writter🐪 
+Una cosa más!🍎 He tratado de traducir mis proyectos siempre al español y al ingles, pero no siempre es posible! Mi código se encuentra 100% escrito en inglés (declaro variables, comento y creo clases con palabras en ingles) y soy un programador camelCase  🐪 
 
-## Here a summary of the programming languages that I have used in my GitHub repositories
-Aquí te muestro un resumen de los lenguajes de programación que he utilizado en mis repositorios de GitHub
+## Take a look of some interesting projects 👀
+Mira algunos proyectos interesantes 👀
+
+[Security RSA Algorithm](https://github.com/juanfranciscocis/Simple-RSA-Algorithm)
+
+[Artificial Intelligence Image Recognition ](https://github.com/juanfranciscocis/CNN-Algorithm)
+
+[Probability and Statistics University Project](https://github.com/juanfranciscocis/Probability-and-Statistics)
+
+[Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
+
+## Here a summary of the programming languages that I have used in my GitHub repositories 🌐 
+Aquí te muestro un resumen de los lenguajes de programación que he utilizado en mis repositorios de GitHub 🌐
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfranciscocis&hide=jupyter%20notebook,lolcode)](https://github.com/juanfranciscocis/github-readme-stats)
 
-## And all the programming languages that I know 
-Y todos los lenguajes de programación que he aprendido
+## And all the programming languages that I know 🌐
+Y todos los lenguajes de programación que he aprendido 🌐
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
@@ -33,8 +44,8 @@ Y todos los lenguajes de programación que he aprendido
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-## Also the frameworks, machine learning libraries and other technologies that I know
-Tambien los frameworks, machine learning libraries y otras tecnologías que he aprendido
+## Also the frameworks, machine learning libraries and other technologies that I know 📚
+Tambien los frameworks, machine learning libraries y otras tecnologías que he aprendido 📚
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -45,8 +56,8 @@ Tambien los frameworks, machine learning libraries y otras tecnologías que he a
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 
-## As a full stack developer some of the design apps that I use are
-Como un full stack developer algunas de las aplicaciones para diseño gráfico que uso son
+## As a full stack developer some of the design apps that I use are 🧑🏻‍🎨
+Como un full stack developer algunas de las aplicaciones para diseño gráfico que uso son 🧑🏻‍🎨
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -56,14 +67,5 @@ Como un full stack developer algunas de las aplicaciones para diseño gráfico q
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 
-## Take a look of some intresting projects
-Mira algunos proyectos interesantes
 
-[Security RSA Algorithm](https://github.com/juanfranciscocis/Simple-RSA-Algorithm)
-
-[Artificial Intelligence Image Recognition ](https://github.com/juanfranciscocis/CNN-Algorithm)
-
-[Probability and Statistics University Project](https://github.com/juanfranciscocis/Probability-and-Statistics)
-
-[Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
 
