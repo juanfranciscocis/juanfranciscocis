@@ -1,13 +1,13 @@
 # Hi there my name is Juan Francisco Cisneros👋
 Hola me llamo Juan Francisco Cisneros👋
 
-### Looking for my resume
-Buscas mi currículum vitae
+## Looking for my resume? 📖
+¿Buscas mi currículum vitae? 📖
 
 
 
-## Welcome to my GitHub profile, here you will find projects that I am currently working on, some of the technologies that I use every day, and many code examples. 
-Bienvenido a mi perfil de GitHub, aquí encontrarás proyectos en los que actualmente me encuentro trabajando, algunas de las tecnologías que utilizo día a día y muchos ejemplos de códigos.
+## Welcome to my GitHub profile, here you will find projects that I am currently working on, some of the technologies that I use every day, and many code examples. 👨🏻‍💻
+Bienvenido a mi perfil de GitHub, aquí encontrarás proyectos en los que actualmente me encuentro trabajando, algunas de las tecnologías que utilizo día a día y muchos ejemplos de códigos. 👨🏻‍💻
 
 ## One more thing! I have always tried to translate my projects into Spanish and English, but it is not always possible! My code is 100% written in English (declare variables,comment and create classes with words in English) and I'm a camelCase writter🐪 
  Una cosa más! He tratado de traducir mis proyectos siempre al español y al ingles, pero no siempre es posible! Mi código se encuentra 100% escrito en inglés (declaro variables, comento y creo clases con palabras en ingles) y soy un programador camelCase  🐪 
@@ -17,7 +17,7 @@ Aquí te muestro un resumen de los lenguajes de programación que he utilizado e
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfranciscocis&hide=jupyter%20notebook,lolcode)](https://github.com/juanfranciscocis/github-readme-stats)
 
-## And all the programming languages that I know
+## And all the programming languages that I know 
 Y todos los lenguajes de programación que he aprendido
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
