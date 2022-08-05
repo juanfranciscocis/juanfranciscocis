@@ -55,3 +55,15 @@ Como un full stack developer algunas de las aplicaciones para diseño gráfico q
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+
+## Take a look of some intresting projects
+Mira algunos proyectos interesantes
+
+[Security RSA Algorithm](https://github.com/juanfranciscocis/Simple-RSA-Algorithm)
+
+[Artificial Intelligence Image Recognition ](https://github.com/juanfranciscocis/CNN-Algorithm)
+
+[Probability and Statistics University Project](https://github.com/juanfranciscocis/Probability-and-Statistics)
+
+[Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
+
