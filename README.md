@@ -4,7 +4,7 @@ Hola me llamo Juan Francisco Cisneros👋
 ## Looking for my resume?(Only in Spanish) 📖 
 ¿Buscas mi currículum vitae? 📖
 
-[<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/370496b870fc5ea1f60f9f86c2ffdf82c435d202/521136d25b37386f49728b93d2e4e6fa-icono-de-cv.png' width=100/>](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
+[<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
 
 
 ## Welcome to my GitHub profile, here you will find projects that I am currently working on, some of the technologies that I use every day, and many code examples. 👨🏻‍💻
@@ -29,7 +29,11 @@ Mira algunos proyectos interesantes 👀
 
 [Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
 
-[My Full Repository (Mi Repositorio Completo)](https://github.com/juanfranciscocis?tab=repositories)
+
+### Full Repository
+Mi repositorio completo
+
+[<img src = 'https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/GitHub.png' width = 100/>](https://github.com/juanfranciscocis?tab=repositories)
 
 ## Here a summary of the programming languages that I have used in my GitHub repositories 🌐 
 Aquí te muestro un resumen de los lenguajes de programación que he utilizado en mis repositorios de GitHub 🌐
@@ -76,5 +80,5 @@ Como un full stack developer algunas de las aplicaciones para diseño gráfico q
 ## Finally, here you can find interesting and useful code that I have written over the years 👈🏻
 Finalmente, aquí puedes encontrar código interesante y útil que he escrito a lo largo de los años. 👈🏻
 
-[Here!!!(Aquí!!!)](https://gist.github.com/juanfranciscocis)
+[<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/1e69b2e83ec36358f7596fb6842509feaecc19d2/IMAGES/logo.png' width=200/>](https://gist.github.com/juanfranciscocis)
 
