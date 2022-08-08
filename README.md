@@ -13,27 +13,6 @@ Bienvenido a mi perfil de GitHub, aquí encontrarás proyectos en los que actual
 ### One more thing...🍎 I have always tried to translate my projects into Spanish and English, but it is not always possible! My code is 100% written in English (declare variables,comment and create classes with words in English) and I'm a camelCase code writter🐪 
 Una cosa más...🍎 He tratado de traducir mis proyectos siempre al español y al ingles, pero no siempre es posible! Mi código se encuentra 100% escrito en inglés (declaro variables, comento y creo clases con palabras en ingles) y soy un programador camelCase  🐪 
 
-## Take a look at some interesting projects 👀
-Mira algunos proyectos interesantes 👀
-
-
-*** ***In every project in the README.md there is a section that you must read in case you are here because of my resume*** ***
-
-**** ****En todo proyecto en el README.md existe un apartado que deberías leer en caso de que estés aquí debido a mi C.V**** ****
-
-[Security RSA Algorithm](https://github.com/juanfranciscocis/Simple-RSA-Algorithm)
-
-[Artificial Intelligence Image Recognition ](https://github.com/juanfranciscocis/CNN-Algorithm)
-
-[Probability and Statistics University Project](https://github.com/juanfranciscocis/Probability-and-Statistics)
-
-[Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
-
-
-### Full Repository
-Mi repositorio completo
-
-[<img src = 'https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/GitHub.png' width = 100/>](https://github.com/juanfranciscocis?tab=repositories)
 
 ## Here a summary of the programming languages that I have used in my GitHub repositories 🌐 
 Aquí te muestro un resumen de los lenguajes de programación que he utilizado en mis repositorios de GitHub 🌐
@@ -76,6 +55,28 @@ Como un full stack developer algunas de las aplicaciones para diseño gráfico q
 ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
+
+## Take a look at some interesting projects 👀
+Mira algunos proyectos interesantes 👀
+
+
+*** ***In every project in the README.md there is a section that you must read in case you are here because of my resume*** ***
+
+**** ****En todo proyecto en el README.md existe un apartado que deberías leer en caso de que estés aquí debido a mi C.V**** ****
+
+[Security RSA Algorithm](https://github.com/juanfranciscocis/Simple-RSA-Algorithm)
+
+[Artificial Intelligence Image Recognition ](https://github.com/juanfranciscocis/CNN-Algorithm)
+
+[Probability and Statistics University Project](https://github.com/juanfranciscocis/Probability-and-Statistics)
+
+[Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
+
+
+### Full Repository
+Mi repositorio completo
+
+[<img src = 'https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/GitHub.png' width = 100/>](https://github.com/juanfranciscocis?tab=repositories)
 
 ## Finally, here you can find interesting and useful code that I have written over the years 👈🏻
 Finalmente, aquí puedes encontrar código interesante y útil que he escrito a lo largo de los años. 👈🏻
