@@ -81,7 +81,7 @@ Mi repositorio completo
 
 [<img src = 'https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/GitHub.png' width = 100/>](https://github.com/juanfranciscocis?tab=repositories)
 
-## Finally, here you can find interesting and useful code that I have written over the years 👈🏻
+## Finally, you can find interesting and useful code that I have written over the years 👈🏻
 Finalmente, aquí puedes encontrar código interesante y útil que he escrito a lo largo de los años. 👈🏻
 
 [<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/1e69b2e83ec36358f7596fb6842509feaecc19d2/IMAGES/logo.png' width=200/>](https://gist.github.com/juanfranciscocis)
