@@ -26,8 +26,8 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
 [<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
 
 
-## Welcome to my GitHub profile, here you will find projects that I am currently working on, some of the technologies that I use every day, and many code examples. 👨🏻‍💻
-Bienvenido a mi perfil de GitHub, aquí encontrarás proyectos en los que actualmente me encuentro trabajando, algunas de las tecnologías que utilizo día a día y muchos ejemplos de códigos. 👨🏻‍💻
+## This is my GitHub profile, here you will find projects that I am currently working on, some of the technologies that I use every day, and many code examples. 👨🏻‍💻
+Este es mi perfil de GitHub, aquí encontrarás proyectos en los que actualmente me encuentro trabajando, algunas de las tecnologías que utilizo día a día y muchos ejemplos de códigos. 👨🏻‍💻
 
 ### One more thing...🍎 I have always tried to translate my projects into Spanish and English, but it is not always possible! My code is 100% written in English (declare variables,comment and create classes with words in English) and I'm a camelCase code writter🐪 
 Una cosa más...🍎 He tratado de traducir mis proyectos siempre al español y al ingles, pero no siempre es posible! Mi código se encuentra 100% escrito en inglés (declaro variables, comento y creo clases con palabras en ingles) y soy un programador camelCase  🐪 
