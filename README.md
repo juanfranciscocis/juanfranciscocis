@@ -14,8 +14,8 @@ Actualmente soy un estudiante de la Universidad San Francisco De Quito 🐉. Me 
 ### In my free time I like to do some freelance, and in case you need an app compatible with Web🌐, iOS📱, Android🤖, MacOS🍎 and Windows🪟, you have found the right person.
 En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app compatible con Web🌐, iOS📱, Android🤖, MacOS🍎 y Windows🪟 haz encontrado a la persona indicada.
 
-## Contact Me
-### Contáctame 
+## Contact Me 📞
+### Contáctame 📞
 
 #### juanfrancistm2011@icloud.com
 #### +593 939683251
