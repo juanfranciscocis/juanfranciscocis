@@ -83,13 +83,27 @@ Mira algunos proyectos interesantes 👀
 
 **** ****En todo proyecto en el README.md existe un apartado que deberías leer en caso de que estés aquí debido a mi C.V**** ****
 
+### Full stack iOS,Android,MacOS,Windows projects
+Proyectos full stack iOS,Android,MacOS,Windows projects
+
+[Movie App (APIs and HTTP requests)](https://github.com/juanfranciscocis/Movie_App)
+
+[Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
+
+[Flutter Showroom](https://github.com/juanfranciscocis/Flutter_Components)
+
+
+
+### Only backend and security projects
+Proyectos backend y de seguridad informática 
+
 [Security RSA Algorithm](https://github.com/juanfranciscocis/Simple-RSA-Algorithm)
 
 [Artificial Intelligence Image Recognition ](https://github.com/juanfranciscocis/CNN-Algorithm)
 
 [Probability and Statistics University Project](https://github.com/juanfranciscocis/Probability-and-Statistics)
 
-[Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
+
 
 
 ### Full Repository
