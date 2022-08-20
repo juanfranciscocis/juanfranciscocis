@@ -109,7 +109,7 @@ Proyectos backend y de seguridad informática
 ### Full Repository
 Mi repositorio completo
 
-[<img src = 'https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/GitHub.png' width = 100/>](https://github.com/juanfranciscocis?tab=repositories)
+[<img src = 'https://github.com/juanfranciscocis/juanfranciscocis/blob/e3ead957d9a599f9d8f0afc7cba05028f7e9500b/IMAGES/25231.png' width = 100/>](https://github.com/juanfranciscocis?tab=repositories)
 
 ## Finally, you can find interesting and useful code that I have written over the years 👈🏻
 Finalmente, aquí puedes encontrar código interesante y útil que he escrito a lo largo de los años. 👈🏻
