@@ -88,6 +88,8 @@ Proyectos full stack iOS,Android,MacOS,Windows projects
 
 [Movie App (APIs and HTTP requests)](https://github.com/juanfranciscocis/Movie_App)
 
+[QR Reader App (Google Maps API, app privacy, internal app browser)](https://github.com/juanfranciscocis/QR_Reader)
+
 [Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
 
 [Flutter Showroom](https://github.com/juanfranciscocis/Flutter_Components)
