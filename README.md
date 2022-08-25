@@ -86,6 +86,8 @@ Mira algunos proyectos interesantes 👀
 ### Full stack iOS,Android,MacOS,Windows projects
 Proyectos full stack iOS,Android,MacOS,Windows projects
 
+[MyCryptoWallet (A crypto portafolio app)](https://github.com/juanfranciscocis/MyCryptoWallet)
+
 [Movie App (APIs and HTTP requests)](https://github.com/juanfranciscocis/Movie_App)
 
 [QR Reader App (Google Maps API, app privacy, internal app browser)](https://github.com/juanfranciscocis/QR_Reader)
