@@ -90,11 +90,13 @@ Proyectos full stack iOS,Android,MacOS,Windows projects
 
 [News App (State Manager => Provider)](https://github.com/juanfranciscocis/News_App) ⭐️
 
+[QR Reader App (Google Maps API, app privacy, internal app browser)](https://github.com/juanfranciscocis/QR_Reader)
+
 [Movie App (APIs and HTTP requests)](https://github.com/juanfranciscocis/Movie_App)
 
 [Products App(Google Firebase and Login Tokens)](https://github.com/juanfranciscocis/Products_App)
 
-[QR Reader App (Google Maps API, app privacy, internal app browser)](https://github.com/juanfranciscocis/QR_Reader)
+
 
 [Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
 
