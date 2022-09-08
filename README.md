@@ -88,6 +88,8 @@ Proyectos full stack iOS,Android,MacOS,Windows projects
 
 [MyCryptoWallet (A crypto portafolio app)](https://github.com/juanfranciscocis/MyCryptoWallet) ⭐️
 
+[Album Checker App (State Manager => Provider, App Privacy, Sqlite, HTTP requests, Google Firebase and Login Tokens)](https://github.com/juanfranciscocis/Album_Checker) ⭐️
+
 [News App (State Manager => Provider)](https://github.com/juanfranciscocis/News_App) ⭐️
 
 [QR Reader App (Google Maps API, app privacy, internal app browser)](https://github.com/juanfranciscocis/QR_Reader)
