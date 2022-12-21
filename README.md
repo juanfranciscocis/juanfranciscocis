@@ -27,7 +27,7 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
 [<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>](https://github.com/juanfranciscocis/juanfranciscocis/blob/0150e6d4e682b9b9b1e5e7b15b416c7e5aae3c72/English.pdf)
 
 ##### ESPAÑOL
-[<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
+[<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>](https://github.com/juanfranciscocis/juanfranciscocis/blob/187ecbcac674075f0d4c22cc951c4f29e884e427/Espan%CC%83ol%201.pdf)
 
 
 ## This is my GitHub profile, here you will find projects that I am currently working on, some of the technologies that I use every day, and many code examples. 👨🏻‍💻
