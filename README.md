@@ -20,9 +20,13 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
 #### juanfrancistm2011@icloud.com
 #### +593 939683251
 
-## Looking for my resume?(Only in Spanish) 📖 
+## Looking for my resume?📖 
 ¿Buscas mi currículum vitae? 📖
 
+##### ENGLISH
+[<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>](https://github.com/juanfranciscocis/juanfranciscocis/blob/0150e6d4e682b9b9b1e5e7b15b416c7e5aae3c72/English.pdf)
+
+##### ESPAÑOL
 [<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>](https://github.com/juanfranciscocis/juanfranciscocis/blob/2ba42ef8c0f416a563128bb4356358617eb24752/PRINCIPAL%20CV.pdf)
 
 
