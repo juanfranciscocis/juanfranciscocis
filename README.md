@@ -2,7 +2,7 @@
 Hola me llamo Juan Francisco Cisneros👋
 
 
-[<img src = 'https://github.com/juanfranciscocis/juanfranciscocis/blob/aaf907d55c97fe92edc7e79f53eac84dc7b06cf1/IMAGES/Frame%201.png' width = 1000>](https://github.com/juanfranciscocis?tab=repositories)
+[<img src= 'https://github.com/juanfranciscocis/juanfranciscocis/blob/main/IMAGES/Frame%201.png?raw=true' width=10000/>]()
 
 
 
