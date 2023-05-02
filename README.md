@@ -40,7 +40,7 @@ Una cosa más...🍎 He tratado de traducir mis proyectos siempre al español y 
 ## Here a summary of the programming languages that I have used in my GitHub repositories 🌐 
 Aquí te muestro un resumen de los lenguajes de programación que he utilizado en mis repositorios de GitHub 🌐
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfranciscocis&langs_count=100&hide=jupyter%20notebook,lolcode)](https://github.com/juanfranciscocis/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfranciscocis&langs_count=100&hide=jupyter%20notebook,lolcode,html)](https://github.com/juanfranciscocis/github-readme-stats)
 
 ## And all the programming languages that I know 🌐
 Y todos los lenguajes de programación que he aprendido 🌐
