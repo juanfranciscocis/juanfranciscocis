@@ -137,6 +137,7 @@ Apps publicadas en Google Play
 Apps publicadas en el AppStore
 
 **None, I'm an student can't afford the dev suscription**
+
 **No puedo subir debido al alto costo de la suscripción**
 
 
