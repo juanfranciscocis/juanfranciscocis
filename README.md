@@ -131,6 +131,13 @@ Proyectos backend y de seguridad informática
 ### Google Play Published Apps
 Apps publicadas en Google Play
 
+[<img src = 'https://github.com/juanfranciscocis/juanfranciscocis/blob/ac9a3f946805321a56dee639045bcf29e67e4f39/IMAGES/googlePlay.png' width = 100/>](https://play.google.com/store/apps/details?id=com.juanfranciscocisneros.albumchecker)
+
+### AppStore Published Apps
+Apps publicadas en el AppStore
+
+**None, I'm an student can't afford the dev suscription**
+**No puedo subir debido al alto costo de la suscripción**
 
 
 ### Full Repository
