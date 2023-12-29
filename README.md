@@ -46,7 +46,7 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
 </p>
 
 <p align="center">
-  <a href="https://github.com/juanfranciscocis/juanfranciscocis/blob/187ecbcac674075f0d4c22cc951c4f29e884e427/Espan%CC%83ol%201.pdf">
+  <a href="https://github.com/juanfranciscocis/juanfranciscocis/blob/767a8fe584ad05c7756b859280fb6a9a807f2a65/CV%20-%20Espan%CC%83ol%20Final.pdf">
     <img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>
   </a>
 </p>
