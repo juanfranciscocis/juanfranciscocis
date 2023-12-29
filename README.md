@@ -21,16 +21,19 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
 
 🌐 Si compartes intereses similares o te gustaría colaborar en proyectos emocionantes, no dudes en ponerte en contacto. Siempre estoy abierto a conectar con colegas y profesionales en el vasto mundo de la tecnología.
 
-<a href="mailto:jfcisnerosg@icloud.com">jfcisnerosg@icloud.com</a>
+<p align="center">
+  <a href="mailto:jfcisnerosg@icloud.com">jfcisnerosg@icloud.com</a>
+</p>
 
-
-[+593 939683251](<a href="+593 939683251">)
+<p align="center">
+  <a href="tel:+593939683251">+593 939683251</a>
+</p>
 
 
 
 
 ## Looking for my resume?📖 
-¿Buscas mi currículum vitae? 📖
+### ¿Buscas mi currículum vitae? 📖
 
 <p align="center">
   <a href="https://github.com/juanfranciscocis/juanfranciscocis/blob/0150e6d4e682b9b9b1e5e7b15b416c7e5aae3c72/English.pdf">
@@ -52,34 +55,29 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
   <em>ESPAÑOL</em>
 </p>
 
+## Language and Coding Practices 
+Prácticas de Lenguaje y Codificación
+### In my development journey, I consistently strive to ensure linguistic inclusivity by translating my projects into both Spanish and English. However, I acknowledge that achieving this may not always be feasible.Dedicated to maintaining code integrity, I adhere to a disciplined approach. All aspects of my code, including variable declarations, comments, and class creation, are meticulously composed in English. This practice not only aligns with industry standards but also facilitates collaboration and understanding within the global programming community.
 
 
-## This is my GitHub profile, here you will find projects that I am currently working on, some of the technologies that I use every day, and many code examples. 👨🏻‍💻
-Este es mi perfil de GitHub, aquí encontrarás proyectos en los que actualmente me encuentro trabajando, algunas de las tecnologías que utilizo día a día y muchos ejemplos de códigos. 👨🏻‍💻
+En mi trayectoria de desarrollo, me esfuerzo constantemente por garantizar la inclusividad lingüística al traducir mis proyectos tanto al español como al inglés. Sin embargo, reconozco que lograr esto no siempre es factible.
+Comprometido con mantener la integridad del código, sigo un enfoque disciplinado. Todos los aspectos de mi código, incluyendo declaraciones de variables, comentarios y creación de clases, están meticulosamente redactados en inglés. Esta práctica no solo se alinea con los estándares de la industria, sino que también facilita la colaboración y comprensión dentro de la comunidad global de programadores.
 
-### One more thing...🍎 I have always tried to translate my projects into Spanish and English, but it is not always possible! My code is 100% written in English (declare variables,comment and create classes with words in English) and I'm a camelCase code writter🐪 
-Una cosa más...🍎 He tratado de traducir mis proyectos siempre al español y al ingles, pero no siempre es posible! Mi código se encuentra 100% escrito en inglés (declaro variables, comento y creo clases con palabras en ingles) y soy un programador camelCase  🐪 
+## Programming languages that I know 🌐
+Lenguajes de programación que he aprendido 🌐
 
-
-## Here a summary of the programming languages that I have used in my GitHub repositories 🌐 
-Aquí te muestro un resumen de los lenguajes de programación que he utilizado en mis repositorios de GitHub 🌐
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juanfranciscocis&langs_count=100&hide=jupyter%20notebook,lolcode,html)](https://github.com/juanfranciscocis/github-readme-stats)
-
-## And all the programming languages that I know 🌐
-Y todos los lenguajes de programación que he aprendido 🌐
-
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
+![html](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white)
+![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
-![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 
 ## Also the frameworks, machine learning libraries and other technologies that I know 📚
 Tambien los frameworks, machine learning libraries y otras tecnologías que he aprendido 📚
@@ -92,10 +90,23 @@ Tambien los frameworks, machine learning libraries y otras tecnologías que he a
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![mongo](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+## Cloud Technologies ☁️
+Tecnologías en la Nube
+
+![azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
+
 
 ## As a full stack developer some of the design apps that I use are 🧑🏻‍🎨
 Como un full stack developer algunas de las aplicaciones para diseño gráfico que uso son 🧑🏻‍🎨
@@ -108,16 +119,13 @@ Como un full stack developer algunas de las aplicaciones para diseño gráfico q
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Affinity Designer](https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)
 
-## Take a look at some interesting projects 👀
+# Take a look at some interesting projects 👀
 Mira algunos proyectos interesantes 👀
-
-
-*** ***In every project in the README.md there is a section that you must read in case you are here because of my resume*** ***
-
-**** ****En todo proyecto en el README.md existe un apartado que deberías leer en caso de que estés aquí debido a mi C.V**** ****
 
 ### Full stack iOS,Android,MacOS,Windows projects
 Proyectos full stack iOS,Android,MacOS,Windows projects
+
+[WikiMarvel (A Express.js/React app with API connection to Mongo)](https://github.com/juanfranciscocis/Marvel_App) ⭐️
 
 [MyCryptoWallet (A crypto portafolio app)](https://github.com/juanfranciscocis/MyCryptoWallet) ⭐️
 
@@ -132,8 +140,6 @@ Proyectos full stack iOS,Android,MacOS,Windows projects
 [Movie App (APIs and HTTP requests)](https://github.com/juanfranciscocis/Movie_App)
 
 [Products App(Google Firebase and Login Tokens)](https://github.com/juanfranciscocis/Products_App)
-
-
 
 [Redesign of the Snake Arcade Game](https://github.com/juanfranciscocis/Snake-Processing)
 
@@ -152,26 +158,14 @@ Proyectos backend y de seguridad informática
 
 [Node.js Socket Server and Heroku](https://github.com/juanfranciscocis/Realtime_Voting_App_Server)
 
-### Google Play Published Apps
+
+
+## Google Play Published Apps
 Apps publicadas en Google Play
 
-[<img src = 'https://github.com/juanfranciscocis/juanfranciscocis/blob/ac9a3f946805321a56dee639045bcf29e67e4f39/IMAGES/googlePlay.png' width = 100/>](https://play.google.com/store/apps/details?id=com.juanfranciscocisneros.albumchecker)
-
-### AppStore Published Apps
-Apps publicadas en el AppStore
-
-**None, I'm an student can't afford the dev suscription**
-
-**No puedo subir debido al alto costo de la suscripción**
-
-
-### Full Repository
-Mi repositorio completo
-
-[<img src = 'https://github.com/juanfranciscocis/juanfranciscocis/blob/e3ead957d9a599f9d8f0afc7cba05028f7e9500b/IMAGES/25231.png' width = 100/>](https://github.com/juanfranciscocis?tab=repositories)
-
-## Finally, you can find interesting and useful code that I have written over the years 👈🏻
-Finalmente, aquí puedes encontrar código interesante y útil que he escrito a lo largo de los años. 👈🏻
-
-[<img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/1e69b2e83ec36358f7596fb6842509feaecc19d2/IMAGES/logo.png' width=200/>](https://gist.github.com/juanfranciscocis)
+<p align="center">
+  <a href="https://play.google.com/store/apps/details?id=com.juanfranciscocisneros.albumchecker">
+    <img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ac9a3f946805321a56dee639045bcf29e67e4f39/IMAGES/googlePlay.png' width=100/>
+  </a>
+</p>
 
