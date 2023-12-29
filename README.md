@@ -6,16 +6,18 @@ Hola me llamo Juan Francisco Cisneros👋
 
 
 
-### I am currently a student at Universidad San Francisco De Quito 🐉. I love programming and that is why I study Computer Science 👨🏻‍💻. I am very passionate about what I do and I always try to learn new technologies. I am currently experimenting with   ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) and ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white), I think they are a very useful framework and programming language and perhaps the future of Full Stack Developers.
+### I am a dedicated student pursuing a degree in Computer Science at Universidad San Francisco De Quito 🐉. My passion for programming drives my commitment to continuous learning and exploration of emerging technologies. As a programming enthusiast, I embrace challenges and actively seek opportunities to expand my skill set. Exploring diverse projects and staying abreast of industry trends are integral parts of my learning journey.
 
-Actualmente soy un estudiante de la Universidad San Francisco De Quito 🐉. Me encanta la programación y es por esto por lo que estudio Ciencias de la Computación 👨🏻‍💻. Me apasiona mucho lo que hago y siempre intento aprender nuevas tecnologías. Actualmente estoy experimentando con ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)  y ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white), creo que son un framework y leguaje de programación muy útiles y tal vez el futuro de los desarrolladores Full Stack.
+Soy un estudiante dedicado que busca obtener un título en Ciencias de la Computación en la Universidad San Francisco De Quito 🐉. Mi pasión por la programación impulsa mi compromiso con el aprendizaje continuo y la exploración de tecnologías emergentes. Como entusiasta de la programación, acepto desafíos y busco activamente oportunidades para expandir mi conjunto de habilidades. Explorar proyectos diversos y estar al tanto de las tendencias de la industria son partes integrales de mi viaje de aprendizaje.
 
 
 ### In my free time I like to do some freelance, and in case you need an app compatible with Web🌐, iOS📱, Android🤖, MacOS🍎 and Windows🪟, you have found the right person.
 En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app compatible con Web🌐, iOS📱, Android🤖, MacOS🍎 y Windows🪟 haz encontrado a la persona indicada.
 
 ## Contact Me 📞
+🌐 If you share similar interests or would like to collaborate on exciting projects, feel free to reach out. I am always open to connecting with fellow enthusiasts and professionals in the vast realm of technology.
 ### Contáctame 📞
+🌐 Si compartes intereses similares o te gustaría colaborar en proyectos emocionantes, no dudes en ponerte en contacto. Siempre estoy abierto a conectar con colegas y profesionales en el vasto mundo de la tecnología.
 
 #### juanfrancistm2011@icloud.com
 #### +593 939683251
