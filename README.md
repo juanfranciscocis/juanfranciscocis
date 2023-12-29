@@ -21,7 +21,7 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
 
 🌐 Si compartes intereses similares o te gustaría colaborar en proyectos emocionantes, no dudes en ponerte en contacto. Siempre estoy abierto a conectar con colegas y profesionales en el vasto mundo de la tecnología.
 
-#### juanfrancistm2011@icloud.com
+#### jfcisnerosg@icloud.com
 #### +593 939683251
 
 ## Looking for my resume?📖 
