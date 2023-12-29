@@ -15,8 +15,8 @@ Soy un estudiante dedicado que busca obtener un título en Ciencias de la Comput
 En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app compatible con Web🌐, iOS📱, Android🤖, MacOS🍎 y Windows🪟 haz encontrado a la persona indicada.
 
 ## Contact Me 📞
-🌐 If you share similar interests or would like to collaborate on exciting projects, feel free to reach out. I am always open to connecting with fellow enthusiasts and professionals in the vast realm of technology.
 ### Contáctame 📞
+🌐 If you share similar interests or would like to collaborate on exciting projects, feel free to reach out. I am always open to connecting with fellow enthusiasts and professionals in the vast realm of technology.
 🌐 Si compartes intereses similares o te gustaría colaborar en proyectos emocionantes, no dudes en ponerte en contacto. Siempre estoy abierto a conectar con colegas y profesionales en el vasto mundo de la tecnología.
 
 #### juanfrancistm2011@icloud.com
