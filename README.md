@@ -164,7 +164,7 @@ Proyectos backend y de seguridad informática
 Apps publicadas en Google Play
 
 <p align="center">
-  <a href="https://play.google.com/store/apps/details?id=com.juanfranciscocisneros.albumchecker">
+  <a href="https://play.google.com/store/apps/dev?id=6581272188900988118">
     <img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ac9a3f946805321a56dee639045bcf29e67e4f39/IMAGES/googlePlay.png' width=100/>
   </a>
 </p>
