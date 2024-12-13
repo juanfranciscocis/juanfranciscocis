@@ -6,9 +6,9 @@ Hola me llamo Juan Francisco Cisneros👋
 
 
 
-### I am a dedicated student pursuing a degree in Computer Science at Universidad San Francisco De Quito 🐉. My passion for programming drives my commitment to continuous learning and exploration of emerging technologies. As a programming enthusiast, I embrace challenges and actively seek opportunities to expand my skill set. Exploring diverse projects and staying abreast of industry trends are integral parts of my learning journey.
+### I am a dedicated Computer Science Engineer graduated at Universidad San Francisco De Quito 🐉. My passion for programming drives my commitment to continuous learning and exploration of emerging technologies. As a programming enthusiast, I embrace challenges and actively seek opportunities to expand my skill set. Exploring diverse projects and staying abreast of industry trends are integral parts of my learning journey.
 
-Soy un estudiante dedicado que busca obtener un título en Ciencias de la Computación en la Universidad San Francisco De Quito 🐉. Mi pasión por la programación impulsa mi compromiso con el aprendizaje continuo y la exploración de tecnologías emergentes. Como entusiasta de la programación, acepto desafíos y busco activamente oportunidades para expandir mi conjunto de habilidades. Explorar proyectos diversos y estar al tanto de las tendencias de la industria son partes integrales de mi viaje de aprendizaje.
+Soy un ingeniero en Ciencias de la Computación graduado en la Universidad San Francisco De Quito 🐉. Mi pasión por la programación impulsa mi compromiso con el aprendizaje continuo y la exploración de tecnologías emergentes. Como entusiasta de la programación, acepto desafíos y busco activamente oportunidades para expandir mi conjunto de habilidades. Explorar proyectos diversos y estar al tanto de las tendencias de la industria son partes integrales de mi viaje de aprendizaje.
 
 
 ### In my free time I like to do some freelance, and in case you need an app compatible with Web🌐, iOS📱, Android🤖, MacOS🍎 and Windows🪟, you have found the right person.
@@ -36,7 +36,7 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
 ### ¿Buscas mi currículum vitae? 📖
 
 <p align="center">
-  <a href="https://github.com/juanfranciscocis/juanfranciscocis/blob/0150e6d4e682b9b9b1e5e7b15b416c7e5aae3c72/English.pdf">
+  <a href="https://www.linkedin.com/in/juanfranciscocisneros/">
     <img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>
   </a>
 </p>
@@ -46,7 +46,7 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
 </p>
 
 <p align="center">
-  <a href="https://github.com/juanfranciscocis/juanfranciscocis/blob/23f3a918279ae1943d544d046f7cc12f2974dd6c/Espan%CC%83ol%20FINAL%202024.pdf">
+  <a href="https://www.linkedin.com/in/juanfranciscocisneros/?locale=es_ES">
     <img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>
   </a>
 </p>
@@ -125,6 +125,8 @@ Mira algunos proyectos interesantes 👀
 ### Full stack iOS,Android,MacOS,Windows projects
 Proyectos full stack iOS,Android,MacOS,Windows projects
 
+[Devprobe (An Ionic Angular App, this is my final batchelor project)](https://github.com/juanfranciscocis/DevProbe_Tesis) ⭐️⭐️⭐️⭐️⭐️
+
 [WikiMarvel (A Express.js/React app with API connection to Mongo)](https://github.com/juanfranciscocis/Marvel_App) ⭐️
 
 [MyCryptoWallet (A crypto portafolio app)](https://github.com/juanfranciscocis/MyCryptoWallet) ⭐️
@@ -149,6 +151,8 @@ Proyectos full stack iOS,Android,MacOS,Windows projects
 
 ### Only backend and security projects
 Proyectos backend y de seguridad informática 
+
+[DevProbe Express.js API](https://github.com/juanfranciscocis/DevProbeApi)⭐️⭐️⭐️⭐️⭐️
 
 [Security RSA Algorithm](https://github.com/juanfranciscocis/Simple-RSA-Algorithm)
 
