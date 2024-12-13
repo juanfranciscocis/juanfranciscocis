@@ -21,6 +21,12 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
 
 🌐 Si compartes intereses similares o te gustaría colaborar en proyectos emocionantes, no dudes en ponerte en contacto. Siempre estoy abierto a conectar con colegas y profesionales en el vasto mundo de la tecnología.
 
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/juanfranciscocisneros/">LinkedIn</a>
+</p>
+
+
 <p align="center">
   <a href="mailto:jfcisnerosg@icloud.com">jfcisnerosg@icloud.com</a>
 </p>
