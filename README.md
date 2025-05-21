@@ -5,7 +5,7 @@
 
 
 
-### Motivated Computer Science graduate with international experience in software development, QA, and cross-functional project coordination. Recently relocated to Ireland, seeking to contribute to high-impact projects by combining technical skills with user-focused design and agile collaboration. Strong background in both frontend and backend technologies, with hands-on experience in multi-country system rollouts and stakeholder alignment.
+### Recently relocated to Ireland to pursue greater opportunities in technology and innovation. I'm eager to contribute to projects that combine technical excellence, user-centered design, and agile teamwork—while growing alongside some of the most dynamic professionals in the field.
 
 
 ## Contact Me 📞
@@ -61,7 +61,7 @@
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 
 
-## As a full stack developer some of the design apps that I use are 🧑🏻‍🎨
+## "As a full stack developer, here are some of the design tools I use 🧑🏻‍🎨
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
