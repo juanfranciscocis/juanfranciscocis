@@ -1,27 +1,14 @@
 # Hi there my name is Juan Francisco Cisneros👋
-Hola me llamo Juan Francisco Cisneros👋
 
 
 [<img src= 'https://github.com/juanfranciscocis/juanfranciscocis/blob/main/IMAGES/Frame%201.png?raw=true' width=10000/>](https://github.com/juanfranciscocis?tab=repositories)
 
 
 
-### I am a dedicated Computer Science Engineer graduated at Universidad San Francisco De Quito 🐉. My passion for programming drives my commitment to continuous learning and exploration of emerging technologies. As a programming enthusiast, I embrace challenges and actively seek opportunities to expand my skill set. Exploring diverse projects and staying abreast of industry trends are integral parts of my learning journey.
+### Motivated Computer Science graduate with international experience in software development, QA, and cross-functional project coordination. Recently relocated to Ireland, seeking to contribute to high-impact projects by combining technical skills with user-focused design and agile collaboration. Strong background in both frontend and backend technologies, with hands-on experience in multi-country system rollouts and stakeholder alignment.
 
-Soy un ingeniero en Ciencias de la Computación graduado en la Universidad San Francisco De Quito 🐉. Mi pasión por la programación impulsa mi compromiso con el aprendizaje continuo y la exploración de tecnologías emergentes. Como entusiasta de la programación, acepto desafíos y busco activamente oportunidades para expandir mi conjunto de habilidades. Explorar proyectos diversos y estar al tanto de las tendencias de la industria son partes integrales de mi viaje de aprendizaje.
-
-
-### In my free time I like to do some freelance, and in case you need an app compatible with Web🌐, iOS📱, Android🤖, MacOS🍎 and Windows🪟, you have found the right person.
-En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app compatible con Web🌐, iOS📱, Android🤖, MacOS🍎 y Windows🪟 haz encontrado a la persona indicada.
 
 ## Contact Me 📞
-### Contáctame 📞
-🌐 If you share similar interests or would like to collaborate on exciting projects, feel free to reach out. I am always open to connecting with fellow enthusiasts and professionals in the vast realm of technology.
-
-
-🌐 Si compartes intereses similares o te gustaría colaborar en proyectos emocionantes, no dudes en ponerte en contacto. Siempre estoy abierto a conectar con colegas y profesionales en el vasto mundo de la tecnología.
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/juanfranciscocisneros/">LinkedIn</a>
 </p>
@@ -31,46 +18,8 @@ En mi tiempo libre me gusta hacer free lance, y en caso de que necesites un app 
   <a href="mailto:jfcisnerosg@icloud.com">jfcisnerosg@icloud.com</a>
 </p>
 
-<p align="center">
-  <a href="tel:+593939683251">+593 939683251</a>
-</p>
 
-
-
-
-## Looking for my resume?📖 
-### ¿Buscas mi currículum vitae? 📖
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/juanfranciscocisneros/">
-    <img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>
-  </a>
-</p>
-
-<p align="center">
-  <em>ENGLISH</em>
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/juanfranciscocisneros/?locale=es_ES">
-    <img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ecd0be27f4c9fcbab5c7b424d0b20e85e6d47e9e/IMAGES/CV.png' width=100/>
-  </a>
-</p>
-
-<p align="center">
-  <em>ESPAÑOL</em>
-</p>
-
-## Language and Coding Practices 
-Prácticas de Lenguaje y Codificación
-### In my development journey, I consistently strive to ensure linguistic inclusivity by translating my projects into both Spanish and English. However, I acknowledge that achieving this may not always be feasible.Dedicated to maintaining code integrity, I adhere to a disciplined approach. All aspects of my code, including variable declarations, comments, and class creation, are meticulously composed in English. This practice not only aligns with industry standards but also facilitates collaboration and understanding within the global programming community.
-
-
-En mi trayectoria de desarrollo, me esfuerzo constantemente por garantizar la inclusividad lingüística al traducir mis proyectos tanto al español como al inglés. Sin embargo, reconozco que lograr esto no siempre es factible.
-Comprometido con mantener la integridad del código, sigo un enfoque disciplinado. Todos los aspectos de mi código, incluyendo declaraciones de variables, comentarios y creación de clases, están meticulosamente redactados en inglés. Esta práctica no solo se alinea con los estándares de la industria, sino que también facilita la colaboración y comprensión dentro de la comunidad global de programadores.
-
-## Programming languages that I know 🌐
-Lenguajes de programación que he aprendido 🌐
+## Programming languages that I know 
 
 ![c++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)
@@ -86,7 +35,6 @@ Lenguajes de programación que he aprendido 🌐
 
 
 ## Also the frameworks, machine learning libraries and other technologies that I know 📚
-Tambien los frameworks, machine learning libraries y otras tecnologías que he aprendido 📚
 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
@@ -107,7 +55,6 @@ Tambien los frameworks, machine learning libraries y otras tecnologías que he a
 
 
 ## Cloud Technologies ☁️
-Tecnologías en la Nube
 
 ![azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![aws](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -115,7 +62,6 @@ Tecnologías en la Nube
 
 
 ## As a full stack developer some of the design apps that I use are 🧑🏻‍🎨
-Como un full stack developer algunas de las aplicaciones para diseño gráfico que uso son 🧑🏻‍🎨
 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
@@ -167,15 +113,4 @@ Proyectos backend y de seguridad informática
 [Probability and Statistics University Project](https://github.com/juanfranciscocis/Probability-and-Statistics)
 
 [Node.js Socket Server and Heroku](https://github.com/juanfranciscocis/Realtime_Voting_App_Server)
-
-
-
-## Google Play Published Apps
-Apps publicadas en Google Play
-
-<p align="center">
-  <a href="https://play.google.com/store/apps/dev?id=6581272188900988118">
-    <img src='https://github.com/juanfranciscocis/juanfranciscocis/blob/ac9a3f946805321a56dee639045bcf29e67e4f39/IMAGES/googlePlay.png' width=100/>
-  </a>
-</p>
 
